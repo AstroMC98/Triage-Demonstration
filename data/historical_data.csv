@@ -1,0 +1,178 @@
+﻿Year of Birth,Age,Age Bracket,Condition as Specified,Interpretation of Condition,Triage
+1957,67,61-70,f2f - tinnitus,"Patient experiencing ringing or buzzing in the ears, which can be caused by various factors including age-related hearing loss, exposure to loud noises, or certain medical conditions.",Clinical Pharmacist Face to Face
+1977,47,41-50,f2f - cysts (requesting urgent referral see e-consult),Patient has cysts (abnormal fluid-filled sacs) that require immediate specialist evaluation. The urgency suggests potential complications or concerning features.,Clinical Pharmacist Face to Face
+1970,54,51-60,f2f - poss sinusitis,"Patient potentially suffering from inflammation of the sinuses, which can cause facial pain, nasal congestion, and headaches. Further examination needed to confirm diagnosis.",Clinical Pharmacist Face to Face
+1944,80,71-80,"discuss results, pt concerned even tho they are normal",Patient anxiety about test results despite normal findings. This could indicate health anxiety or a need for better understanding of their health status.,Clinical Pharmacist Face to Face
+1963,61,61-70,"pt been in hospital for 5 days - wants to discuss getting a med 3, hospital did not provide her with one.",Patient recently discharged from a 5-day hospital stay and needs documentation (likely a medical certificate or sick note) for work or benefits purposes.,Clinical Pharmacist Face to Face
+1981,43,41-50,f2f bleeding on coil concerned,"Patient experiencing bleeding while using an intrauterine contraceptive device (coil). This could indicate improper placement, infection, or other complications requiring assessment.",Clinical Pharmacist Face to Face
+1958,66,61-70,f2f suspicous moles,"Patient has moles that appear atypical or concerning, potentially requiring evaluation for skin cancer or other dermatological conditions.",Clinical Pharmacist Face to Face
+2022,2,0-5,f2f - poss tonsillitis,"Young patient (likely a child) with symptoms suggesting inflammation of the tonsils, such as sore throat, fever, and difficulty swallowing. Further examination needed to confirm diagnosis and determine if it's viral or bacterial.",Clinical Pharmacist Face to Face
+1950,74,71-80,f2f - ear still blocked - no better,"Patient experiencing persistent ear blockage without improvement. This could indicate various conditions such as ear wax buildup, eustachian tube dysfunction, or an ear infection.",Clinical Pharmacist Face to Face
+1976,48,41-50,f2f ear blocked and painful,"Patient has ear blockage accompanied by pain, suggesting possible ear infection, severe wax impaction, or other inflammatory conditions of the ear.",Clinical Pharmacist Face to Face
+1978,46,41-50,f2f chst pain,"Patient experiencing chest pain, which requires careful evaluation to rule out serious cardiac conditions, pulmonary issues, or musculoskeletal problems.",Clinical Pharmacist Face to Face
+1956,68,61-70,"back pain, going down leg for last 10days","Patient experiencing lower back pain with sciatica symptoms, potentially indicating nerve compression or disc issues.",Remote Clinical Pharmacist
+1948,76,71-80,poss uti,"Patient possibly suffering from a urinary tract infection, which may cause symptoms like frequent urination, burning sensation, and pelvic pain.",Remote Clinical Pharmacist
+1952,72,71-80,skin rash-sending in photo (photos in record attachments),Patient has a skin rash requiring visual assessment. The use of photos allows for remote evaluation of the condition.,Remote Clinical Pharmacist
+1970,54,51-60,pt has covid - wants antibiotics?,Patient diagnosed with COVID-19 inquiring about antibiotic treatment. This suggests a need for education about viral vs. bacterial infections.,Remote Clinical Pharmacist
+1949,75,71-80,possible uti - urine sample in blue box,Patient with suspected urinary tract infection who has provided a urine sample for analysis.,Remote Clinical Pharmacist
+1938,86,Over 80,constipation,"Patient experiencing difficulty with bowel movements, which could be due to various factors including diet, medication, or underlying health conditions.",Remote Clinical Pharmacist
+2017,7,6-10,skin rash-PIC ON RECORD,Young patient (likely a child) with a skin rash that has been photographed for assessment.,Remote Clinical Pharmacist
+1957,67,61-70,congestion,"Patient experiencing nasal or chest congestion, which could be due to allergies, a cold, or other respiratory issues.",Remote Clinical Pharmacist
+1966,58,51-60,"tel appt-shoulder/neck pain, four weeks, please call after 4 if possible","Patient with persistent shoulder and neck pain for a month, requesting a specific call time. This could indicate a musculoskeletal issue or nerve problem.",Remote Clinical Pharmacist
+1975,49,41-50,"""tiredness and hair loss""","Patient experiencing fatigue and hair loss, which could be symptoms of various conditions including thyroid disorders, nutritional deficiencies, or stress.",Remote Clinical Pharmacist
+1972,52,51-60,poss uti - unable to get sample to,Patient with suspected urinary tract infection but unable to provide a urine sample. This may complicate diagnosis and treatment.,Remote Clinical Pharmacist
+1982,42,41-50,would like iron levels checked,"Patient requesting iron level testing, possibly due to symptoms of anemia or concerns about iron deficiency.",Remote Clinical Pharmacist
+2000,24,21-30,skin rash (photos on econsult),"Young adult with a skin rash, providing photos for remote assessment. This allows for visual evaluation without in-person visit.",Remote Clinical Pharmacist
+1995,29,21-30,uti-labelled sample in box,Patient with suspected urinary tract infection who has provided a urine sample for analysis.,Remote Clinical Pharmacist
+1976,48,41-50,blocked ear,"Patient experiencing ear blockage, which could be due to wax buildup, infection, or other ear conditions.",Remote Clinical Pharmacist
+2024,0,0-5,skin rash,"Infant or very young child with a skin rash, requiring careful assessment considering the patient's age.",Remote Clinical Pharmacist
+1940,84,Over 80,uti,Elderly patient with suspected urinary tract infection. Age may complicate the condition or its treatment.,Remote Clinical Pharmacist
+1966,58,51-60,possible uti,"Patient with symptoms suggesting a urinary tract infection, requiring confirmation and potential treatment.",Remote Clinical Pharmacist
+1943,81,Over 80,"right hip constant pain, back leg pain and numbness down to the foot. has a bursa waiting for an injection and not sure if that's anything to do with it",Elderly patient with complex pain issue possibly involving sciatica or hip bursitis. Awaiting intervention and seeking clarity on symptoms.,Remote Clinical Pharmacist
+1986,38,31-40,back pain,"Patient experiencing back pain, which could range from muscle strain to more serious spinal issues.",Remote Clinical Pharmacist
+1983,41,41-50,Mr Monjur Ahmed 02 Sep 1983 TATT,"Patient reporting feeling tired all the time (TATT), which could indicate various underlying health issues.",Remote Clinical Pharmacist
+1949,75,71-80,diarrhoea,"Patient experiencing diarrhea, which could be due to infection, dietary issues, or other gastrointestinal problems.",Remote Clinical Pharmacist
+2023,1,0-5,skin rash pt sending in photo,"Infant with a skin rash, with photos being provided for remote assessment.",Remote Clinical Pharmacist
+1948,76,71-80,knee pain,"Elderly patient with knee pain, which could be due to arthritis, injury, or other joint issues.",Remote Clinical Pharmacist
+1950,74,71-80,cough (requesting salmol),"Patient with a cough, requesting salbutamol (a bronchodilator), suggesting possible asthma or COPD exacerbation.",Remote Clinical Pharmacist
+1940,84,Over 80,oral thrush (daktarin oral oos),"Elderly patient with oral thrush, a fungal infection in the mouth. Daktarin (miconazole) oral gel is out of stock (oos).",Remote Clinical Pharmacist
+1989,35,31-40,was bittenbitten on holiday and has since lost weight,"Patient experienced an insect or animal bite while on vacation, followed by unexplained weight loss. This could indicate an infection or other health issues related to the bite.",Remote Clinical Pharmacist
+1953,71,71-80,"ear ache-pressure in left ear and side of head, got worse lately, temp for a few days, has temp and body prickles and itches",Patient experiencing ear pain with associated symptoms suggesting a possible ear infection or more complex condition affecting the ear and surrounding areas.,Remote Clinical Pharmacist
+2000,24,21-30,tiredness+headaches,"Young adult experiencing fatigue and headaches, which could be due to various factors including stress, sleep issues, or underlying health conditions.",Remote Clinical Pharmacist
+1957,67,61-70,med rev,"Patient due for a medication review, which involves assessing current medications for effectiveness, side effects, and potential interactions.",Remote Clinical Pharmacist
+1991,33,31-40,back/shoulder pain,"Patient with pain in the back and shoulder area, which could be due to muscle strain, poor posture, or other musculoskeletal issues.",Remote Clinical Pharmacist
+1968,56,51-60,tiredness (see econsult),"Middle-aged patient reporting fatigue, with additional information provided via an electronic consultation form.",Remote Clinical Pharmacist
+2017,7,6-10,flare up of psoriasis (photos on econsult),"Young child experiencing a worsening of psoriasis symptoms, with photos provided for assessment via electronic consultation.",Remote Clinical Pharmacist
+2013,11,11-15,sore throat,"Child/adolescent with throat pain, possibly due to viral or bacterial infection.",Remote Clinical Pharmacist
+2021,3,0-5,UTI - sample in blue box,"Young child with suspected urinary tract infection, urine sample provided.",Remote Clinical Pharmacist
+1977,47,41-50,uti - urine sample in blue box,"Adult with suspected urinary tract infection, urine sample provided.",Remote Clinical Pharmacist
+2022,2,0-5,"pts siblings have worms, treatment can't be bought OTC for under 2years old","Very young child with potential worm infection, seeking appropriate treatment due to age restrictions on over-the-counter medications.",Remote Clinical Pharmacist
+1992,32,31-40,uti,Adult with suspected urinary tract infection.,Remote Clinical Pharmacist
+2000,24,21-30,pain relief,"Young adult seeking pain management, cause unspecified.",Remote Clinical Pharmacist
+1995,29,21-30,shoulder pain,"Adult experiencing shoulder pain, possibly due to injury, strain, or chronic condition.",Remote Clinical Pharmacist
+2005,19,16-20,nasal congestion,"Teenager with blocked or runny nose, possibly due to cold, allergies, or sinus issues.",Remote Clinical Pharmacist
+1976,48,41-50,mouth ulcers,"Adult with oral sores, which could be due to various causes including viral infection or autoimmune conditions.",Remote Clinical Pharmacist
+1995,29,21-30,diarrhoea,"Adult experiencing loose or watery stools, possibly due to infection, diet, or other gastrointestinal issues.",Remote Clinical Pharmacist
+1966,58,51-60,uti,Middle-aged adult with suspected urinary tract infection.,Remote Clinical Pharmacist
+1965,59,51-60,dry mouth,"Adult experiencing unusually dry mouth, which could be a side effect of medication or a symptom of various conditions.",Remote Clinical Pharmacist
+1938,86,Over 80,tiredness,"Elderly patient reporting fatigue, which could be due to various factors including age, medication, or underlying health issues.",Remote Clinical Pharmacist
+2006,18,16-20,tiredness,"Teenager experiencing fatigue, which could be due to various factors including sleep issues, stress, or health conditions.",Remote Clinical Pharmacist
+1934,90,Over 80,tiredness,"Elderly patient reporting fatigue, similar to the 1938 patient.",Remote Clinical Pharmacist
+2010,14,11-15,knee pain,"Young teenager with knee pain, possibly due to growth, injury, or other musculoskeletal issues.",Remote Clinical Pharmacist
+1937,87,Over 80,med query (sugar levels,"Elderly patient with a medication query related to blood sugar levels, suggesting diabetes management.",Remote Clinical Pharmacist
+1945,79,71-80,med query,Elderly patient with an unspecified medication query.,Remote Clinical Pharmacist
+1961,63,61-70,hand pain,"Adult experiencing hand pain, which could be due to injury, arthritis, or other conditions.",Remote Clinical Pharmacist
+1951,73,71-80,diarrhoea,Elderly patient experiencing loose or watery stools.,Remote Clinical Pharmacist
+1967,57,51-60,med query & uti,Middle-aged adult with both a medication query and suspected urinary tract infection.,Remote Clinical Pharmacist
+1979,45,41-50,acid reflux,"Adult experiencing heartburn or regurgitation, possibly due to diet, stress, or other factors.",Remote Clinical Pharmacist
+2024,0,0-5,constipation (please see clinic letter 06/09),"Infant with constipation, with reference to a previous clinic letter for context.",Remote Clinical Pharmacist
+1944,80,71-80,back pain (please see clinic letter 30/7),"Elderly patient with back pain, with reference to a previous clinic letter for context.",Remote Clinical Pharmacist
+1934,90,Over 80,f2f - breathing concerns,"Elderly patient with respiratory issues, potentially COPD or other age-related breathing problems.",GP Face to Face
+2011,13,11-15,f2f - up all night with ear pain,"Child/adolescent with severe ear pain, possibly due to ear infection or other acute condition.",GP Face to Face
+1952,72,71-80,f2f - stomach issues,"Adult with gastrointestinal problems, which could range from indigestion to more serious conditions.",GP Face to Face
+2022,2,0-5,"F2F shortness of breath, inhalers not helping","Young child with breathing difficulties not responding to current inhaler treatment, possibly asthma-related.",GP Face to Face
+1950,74,71-80,F2F re depression and fatigue,"Elderly patient experiencing mental health issues and tiredness, potentially related.",GP Face to Face
+1960,64,61-70,"f2f benign kidney tumour, feeling unwell","Adult with known kidney tumor experiencing general malaise, requiring follow-up.",GP Face to Face
+1951,73,71-80,f2f - probs with his breathing - was seen at hospital,"Elderly patient with breathing issues, following up after hospital visit.",GP Face to Face
+2003,21,21-30,f2f - probs with ears,"Teenage/young adult experiencing ear problems, nature unspecified.",GP Face to Face
+1964,60,51-60,f2f - ongoing abdo pain,"Adult with persistent abdominal pain, requiring physical examination.",GP Face to Face
+1948,76,71-80,F2F struggling to put foot to the ground,"Elderly patient with mobility issues, potentially due to injury or chronic condition.",GP Face to Face
+1970,54,51-60,F2F-rectal examination as per Shivesh,Adult requiring specific physical examination as requested by another healthcare provider.,GP Face to Face
+2000,24,21-30,F2F couple of lumps concerned about,"Young adult worried about unspecified lumps, requiring physical examination.",GP Face to Face
+1991,33,31-40,F2F eConsult - discomfort inlungs since quiting smoking,"Adult experiencing lung discomfort post-smoking cessation, following up on an eConsult.",GP Face to Face
+2018,6,6-10,"f2f Child, tummy aches","Young child with abdominal pain, requiring in-person assessment.",GP Face to Face
+1955,69,61-70,"tel appt-pt sending photos, problem with legs, please see open task","Adult with leg issues, utilizing remote consultation with photo assessment.",GP Remote
+1957,67,61-70,"F2F breathless for 9-10months, getting a bit worse","Adult with prolonged and worsening breathlessness, requiring in-person assessment.",GP Face to Face
+1941,83,Over 80,"Tel: feeling dizzy since starting on Fluclox, cannot come in as unable to drive, patient concerned","Elderly patient experiencing dizziness as a medication side effect, unable to attend in-person.",GP Remote
+1985,39,31-40,F2F-abdo pain,Adult with abdominal pain requiring physical examination.,GP Face to Face
+2024,0,0-5,f2f - BABY - rash,"Infant with a rash, requiring in-person pediatric assessment.",GP Face to Face
+2002,22,21-30,F2F lump on knee,"Young adult with a knee lump, requiring physical examination.",GP Face to Face
+1949,75,71-80,"f2f-issue with finger nail, was referred from pharmacy","Elderly patient with a fingernail problem, escalated from pharmacy care.",GP Face to Face
+2011,13,11-15,f2f ongoing back pain,"Child/adolescent with persistent back pain, requiring in-person assessment.",GP Face to Face
+2018,6,6-10,f2f-ongoing issues with tonsils,"Young child with recurring tonsil problems, needing physical examination.",GP Face to Face
+1989,35,31-40,F2F swelling of knee with fluid behind it,"Adult with knee swelling and effusion, requiring physical examination and possible intervention.",GP Face to Face
+1987,37,31-40,med3,"Adult requesting a Med3 form (fit note for work), likely for ongoing health condition or recovery.",GP Face to Face
+1945,79,71-80,please sign script as urgent,"Elderly patient needing an urgent prescription signed, possibly for critical medication.",GP Face to Face
+1995,29,21-30,Tel appt. Re> USS pelvis report (?for referral to Fertility Clinic).,"Young adult discussing ultrasound results of pelvis, potentially related to fertility issues.",GP Remote
+1966,58,51-60,please sign script as urgent,"Middle-aged adult needing an urgent prescription signed, similar to the 1945 patient.",GP Face to Face
+1987,37,31-40,pls call pt to discuss OT letter - said she doesn't need a f2f,"Patient needs discussion about occupational therapy letter, prefers remote consultation.",GP Remote
+1991,33,31-40,f2f struggles in conceiving,"Adult experiencing fertility issues, requiring in-person assessment.",GP Face to Face
+2024,0,0-5,baby check,Routine check-up for an infant.,GP Face to Face
+1982,42,41-50,post natal,Post-pregnancy check-up for new mother.,GP Face to Face
+1934,90,Over 80,pls call Anita to discuss memory-PLS CALL BEFORE 12,"Elderly patient needing discussion about memory issues, specific time request.",GP Remote
+1962,62,61-70,f2f-ongoing pain with gall stones,"Adult with chronic pain related to gallstones, requiring in-person assessment.",GP Face to Face
+1951,73,71-80,"f2f-ongoing foot pain, Dr P told her to come back if it doesn't get any better","Elderly patient with persistent foot pain, follow-up appointment.",GP Face to Face
+1985,39,31-40,f2f - poss chest and throat infection,"Adult with potential respiratory infection, requiring physical examination.",GP Face to Face
+1960,64,61-70,f2f - hernia,"Adult with hernia, needing physical examination.",GP Face to Face
+2024,0,0-5,Bbay check,Another routine infant check-up (possibly duplicate or different infant).,GP Face to Face
+1985,39,31-40,post natal,Another post-pregnancy check-up for new mother.,GP Face to Face
+1981,43,41-50,"f2f - mole on chest, raised and painful","Adult with concerning skin lesion, requiring physical examination.",GP Face to Face
+1959,65,61-70,f2f-mole on face changed shape and colour,"Adult with potentially serious change in skin lesion, requiring urgent assessment.",GP Face to Face
+1951,73,71-80,f2f-still having problems breathing-he said he's seen you about this before,"Elderly patient with ongoing respiratory issues, follow-up appointment.",GP Face to Face
+1955,69,61-70,"f2f- discuss USS report (was booked with dr patel on thursday, but she is suffering with a lot of pain)","Adult needing to discuss ultrasound results, with noted pain issues.",GP Face to Face
+1990,34,31-40,f2f - feels like heart beating out of chest,"Adult with concerning cardiac symptoms, requiring immediate assessment.",GP Face to Face
+1996,28,21-30,f2f-sick note ap sarah,"Young adult needing a sick note, specific doctor requested.",GP Face to Face
+1949,75,71-80,f2f-strange sensation in feet and ankles specifically asked for you,"Elderly patient with unusual sensory symptoms in lower extremities, requesting specific doctor.",GP Face to Face
+1956,68,61-70,f2f unilateral leg pain - buttock to knee,"Adult with leg pain, possibly sciatica, requiring physical examination.",GP Face to Face
+2021,3,0-5,tel call - pt's mum wants to discuss melatonin,"Parent of young child wanting to discuss sleep aid, suitable for remote consultation.",GP Remote
+1983,41,41-50,tel call - pt wants to discuss fertility,"Adult seeking fertility discussion, suitable for initial remote consultation.",GP Remote
+1963,61,61-70,f2f - body itching and burning all over,"Adult with widespread skin symptoms, requiring physical examination.",GP Face to Face
+1951,73,71-80,tel call - pt is requesting a genetic test,"Elderly patient inquiring about genetic testing, initial discussion suitable for remote consultation.",GP Remote
+1990,34,31-40,Dr M -Discuss XR,Adult needing to discuss X-ray results with specific doctor.,GP Face to Face
+2018,6,6-10,f2f - unwell child as discussed,"Young child with health issues, requiring in-person pediatric assessment.",GP Face to Face
+1965,59,51-60,discuss AD,Adult needing to discuss specific condition (possibly Alzheimer's Disease or Atopic Dermatitis).,GP Face to Face
+1972,52,51-60,Smear,Cervical screening appointment,Nurse Face to Face
+1986,38,31-40,pill check,Contraceptive pill review,Nurse Face to Face
+2024,0,0-5,baby imms 8 weeks & baby measurements,Infant immunizations and growth check at 8 weeks,Nurse Face to Face
+1982,42,41-50,post natal,Post-pregnancy check-up,Nurse Face to Face
+1992,32,31-40,Asthma annual review,Routine asthma management check,Nurse Face to Face
+1953,71,71-80,f2f memory test PLS PASS REFERRAL PAPERWORK IF NOT ALREADY COLLECTED,"Cognitive assessment for elderly patient, with administrative note",Nurse Face to Face
+1994,30,21-30,pill check-pt wants to start contraception,Contraceptive consultation for new user,Nurse Face to Face
+2024,0,0-5,baby imms 16 weeks old,Infant immunizations at 16 weeks,Nurse Face to Face
+2024,0,0-5,baby imms 8 weeks & baby measurements,Another 8-week infant check (possibly duplicate or different infant),Nurse Face to Face
+1985,39,31-40,post natal,Another post-pregnancy check-up,Nurse Face to Face
+1954,70,61-70,f2f-denosumab injection,Osteoporosis treatment injection,Nurse Face to Face
+1994,30,21-30,re BT results. Pt said you wanted to see her when results are back,Follow-up appointment for blood test results,Nurse Face to Face
+1998,26,21-30,pill check,Another contraceptive pill review,Nurse Face to Face
+1950,74,71-80,earlier bt results,Blood test results review,Nurse Face to Face
+1984,40,31-40,pill check,Another contraceptive pill review,Nurse Face to Face
+1974,50,41-50,initial diabetic,First appointment for newly diagnosed diabetic patient,Nurse Face to Face
+1964,60,51-60,Leg Dressings,Wound care for leg,Nurse Face to Face
+1981,43,41-50,f2f - poss infected cut on hand,Assessment of potentially infected wound,Nurse Face to Face
+1971,53,51-60,abp on,Ambulatory blood pressure monitoring setup,Nurse Face to Face
+1962,62,61-70,bt results,Blood test results review,Nurse Face to Face
+1974,50,41-50,Smear,Cervical screening appointment,Nurse Face to Face
+1967,57,51-60,Smear,Cervical screening appointment,Nurse Face to Face
+1996,28,21-30,Smear,Cervical screening appointment,Nurse Face to Face
+1974,50,41-50,complete hrt rev,Complete hormone replacement therapy review,Nurse Face to Face
+1987,37,31-40,Removal of stitches-1 stitch,Minor procedure to remove a single stitch,Nurse Face to Face
+1934,90,Over 80,dressing,Wound dressing change or assessment,Nurse Face to Face
+1972,52,51-60,wound,Wound assessment or treatment,Nurse Face to Face
+1969,55,51-60,Smear,Cervical screening appointment,Nurse Face to Face
+1947,77,71-80,f2f-discuss BT results re mananging diabetes,Diabetes management discussion based on blood test results,Nurse Face to Face
+1947,77,71-80,assist Dr with steriod inj RECEPTION: CAN YOU PLS TRY BOOK FOR COPD REVIEW,Assisting with steroid injection and scheduling COPD review,Nurse Face to Face
+1938,86,Over 80,wound,Wound assessment or treatment,Nurse Face to Face
+1949,75,71-80,ECG inform diabetes,Electrocardiogram and diabetes information,Nurse Face to Face
+1948,76,71-80,Senior health check,Comprehensive health check for older adult,Nurse Face to Face
+1959,65,61-70,asthma rev,Asthma review appointment,Nurse Face to Face
+1947,77,71-80,to remove 4 stitches from head,Minor procedure to remove stitches,Nurse Face to Face
+1947,77,71-80,Wound check,Follow-up wound assessment,Nurse Face to Face
+1950,74,71-80,sutures,Wound suturing or suture assessment,Nurse Face to Face
+1971,53,51-60,24 Hour BP ,24-hour blood pressure monitoring setup or review ,Nursing Associate Face to Face 
+1977,47,41-50,Foot Check/ Bloods/ACR/BP ,"Comprehensive diabetic foot check, blood tests, urine test for albumin:creatinine ratio, and blood pressure check ",Nursing Associate Face to Face 
+1947,77,71-80,Senior health check ,Comprehensive health assessment for older adult ,Nursing Associate Face to Face 
+1946,78,71-80,Removal of clips- not sure how many ,Minor procedure to remove surgical clips ,Nursing Associate Face to Face 
+1962,62,61-70,b12 ,Vitamin B12 injection ,Nursing Associate Face to Face 
+1957,67,61-70,Foot Check/ Bloods/ACR/BP ,Another comprehensive diabetic check-up ,Nursing Associate Face to Face 
+1947,77,71-80,wound check ankle ,Follow-up assessment of an ankle wound ,Nursing Associate Face to Face 
+1938,86,Over 80,wound check ,General wound assessment ,Nursing Associate Face to Face 
+1946,78,71-80,Foot Check/ Bloods/ACR/BP ,Another comprehensive diabetic check-up ,Nursing Associate Face to Face 
+1945,79,71-80,Senior health check ,Another comprehensive health assessment for older adult ,Nursing Associate Face to Face 
+1947,77,71-80,Foot Check/ Bloods/ACR/BP ,Another comprehensive diabetic check-up ,Nursing Associate Face to Face 
+1959,65,61-70,bt ,Blood test ,Nursing Associate Face to Face 
+1941,83,Over 80,Foot Check/ Bloods/ACR/BP ,Another comprehensive diabetic check-up ,Nursing Associate Face to Face 
+1947,77,71-80,b12 dose 3 ,Third dose of Vitamin B12 injection series ,Nursing Associate Face to Face 
+1950,74,71-80,Removal of stitches (7) head and penis ,Minor procedure to remove stitches from two areas ,Nursing Associate Face to Face 
+1946,78,71-80,B12 ,Vitamin B12 injection ,Nursing Associate Face to Face 
+1933,91,Over 80,B12 ,Vitamin B12 injection for elderly patient ,Nursing Associate Face to Face 
+1961,63,61-70,F2F- Wound check thumb ,Follow-up assessment of a thumb wound ,Nursing Associate Face to Face 
